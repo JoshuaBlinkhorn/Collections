@@ -1,0 +1,59 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "p"]
+[Result "1/2-1/2"]
+[FEN "7k/R7/7K/7P/8/3b4/8/8 b - - 0 1"]
+[SetUp "1"]
+
+1...Kg8 ( 1...Bc4 $2 2.Ra8+ Bg8 3.Kg5 Kg7 4.Ra7+ ( 4.h6+ Kh8 5.Rd8 Kh7 6.Rd7+
+Kh8 7.Kg6 ) 4...Kh8 5.Kg6 Bd5 6.Rh7+ Kg8 7.Re7 Kh8 ( 7...Kf8 8.Kf6 Bc4 9.h6
+Kg8 10.h7+ Kh8 11.Kg6 ) 8.h6 Ba2 9.h7 Bb1+ 10.Kh6 ) 2.Rg7+ Kf8 3.Rg4 Bc2
+4.Rc4 ( 4.Kg5 Kg7 ) 4...Bb1 5.Rf4+ Kg8 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "p"]
+[Black "?"]
+[Result "1-0"]
+[FEN "7k/R7/8/6K1/4b2P/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+1.Kh6 Kg8 ( 1...Bd5 2.Rd7 Be6 3.Rd8+ Bg8 4.Kg5 Kg7 5.Rd7+ Kh8 6.Kg6 Bb3
+7.Rh7+ Kg8 8.Rc7 Kf8 ( 8...Kh8 9.h5 Bd5 10.Rh7+ Kg8 11.Re7 ) 9.Rg7 ) 2.Rg7+
+Kf8 ( 2...Kh8 3.Re7 ) 3.Rg5 Kf7 4.Rg3 Bc2 5.Kh5 Kf6 ( 5...Bd1+ 6.Kg5 Kg7 ( 
+6...Bc2 7.Kf4 ) 7.Rc3 ) ( 5...Bb1 6.Rg5 Kf6 7.Kg4 Bg6 8.h5 Bh7 9.h6 Bg6
+10.Kf4 Bh7 11.Rg7 Bd3 12.Ra7 ) 6.Rg5 Bd1+ ( 6...Bf5 7.Kh6 Bc2 8.Rg2 Bd3
+9.Rf2+ ) 7.Kh6 Kf7 ( 7...Bf3 8.Rg1 ) 8.Rg7+ Kf6 9.Rg1 Be2 10.Rg2 Bd3 11.Rf2+
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "p"]
+[Black "?"]
+[Result "1/2-1/2"]
+[FEN "8/8/8/8/4B3/1k6/p6r/K7 w - - 0 1"]
+[SetUp "1"]
+
+1.Bd5+ ( 1.Bg2 $2 Ka3 2.Bf1 Rc2 ) 1...Ka3 2.Bg2 Rh5 3.Bd5 Rh2 4.Bg2 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "p"]
+[Result "0-1"]
+[FEN "8/8/8/7p/6k1/8/r4B2/6K1 b - - 0 1"]
+[SetUp "1"]
+
+1...Kh3 ( 1...h4 $5 2.Bd4 Re2 ( 2...Kh3 $2 3.Be5 Rg2+ 4.Kf1 ) 3.Ba7 Re8 4.Bb6
+Re7 5.Bc5 Rd7 6.Bb4 ) 2.Bd4 Rg2+ 3.Kf1 ( 3.Kh1 Rd2 ) 3...Kg3 4.Be5+ Kf3 5.Bf6
+Rg4 0-1
+
