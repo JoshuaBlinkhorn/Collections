@@ -1,0 +1,94 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "p"]
+[Result "1/2-1/2"]
+[FEN "R7/P5k1/8/2K5/8/8/8/r7 w - - 0 1"]
+[SetUp "1"]
+
+1.Kb6 Rb1+ 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "p"]
+[Black "?"]
+[Result "1-0"]
+[FEN "R7/P7/8/2K5/8/2k5/8/r7 w - - 0 1"]
+[SetUp "1"]
+
+1.Rc8 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "p"]
+[Result "1/2-1/2"]
+[FEN "R7/P5k1/8/2K4P/8/8/8/r7 w - - 0 1"]
+[SetUp "1"]
+
+1.h6+ Kh7 2.Kb6 Rb1+ 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "p"]
+[Black "?"]
+[Result "1-0"]
+[FEN "R7/P5k1/8/2K2P2/8/8/8/r7 w - - 0 1"]
+[SetUp "1"]
+
+1.f6+ Kf7 ( 1...Kxf6 2.Rf8+ ) ( 1...Kh7 2.f7 ) 2.Rh8 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "p"]
+[Black "?"]
+[Result "1-0"]
+[FEN "2R5/2P3k1/8/6p1/2r4p/5PPK/7P/8 b - - 0 1"]
+[SetUp "1"]
+
+1...hxg3 2.Kxg3 ( 2.hxg3 $2 g4+ 3.fxg4 Rc3 ) 2...Kh7 3.h4 gxh4+ ( 3...Rxh4
+4.Rd8 ) 4.Kh3 Kg7 5.f4 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "p"]
+[Result "1/2-1/2"]
+[FEN "R7/6k1/P7/8/8/5K2/8/r7 b - - 0 1"]
+[SetUp "1"]
+
+1...Rf1+ ( 1...Kf7 $2 2.Ke4 ( 2.a7 $2 Kg7 ) 2...Ke7 ( 2...Ra5 3.Kd4 Kg7 4.Kc4
+Kf7 5.Kb4 Ra1 6.Kb5 Rb1+ 7.Kc6 Ra1 8.Kb7 Rb1+ 9.Ka7 Ke7 10.Rb8 Rc1 11.Kb7 ( 
+11.Rb6 $2 Kd7 ) 11...Rb1+ 12.Ka8 Ra1 13.a7 Kd6 14.Kb7 ) 3.a7 Kf7 4.Rh8 )
+2.Ke4 Rf6 3.a7 ( 3.Kd5 Rb6 4.Kc5 Rf6 5.Kb5 Rf5+ 6.Kb6 Rf6+ 7.Ka7 Rf7+ )
+3...Ra6 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "p"]
+[Result "1/2-1/2"]
+[FEN "R7/6k1/P7/8/5K2/8/8/r7 b - - 0 1"]
+[SetUp "1"]
+
+1...Rc1 ( 1...Rf1+ $2 2.Ke5 Rf6 3.Rg8+ ) ( 1...Rb1 $2 2.Ra7+ Kf6 ( 2...Kg6
+3.Rb7 Ra1 4.Rb6+ Kf7 5.Ke5 ) 3.Ke4 Rb6 4.Rh7 Kg6 5.a7 Ra6 6.Rb7 ) ( 1...Ra5
+$5 2.Ke4 Rc5 ( 2...Rb5 $5 ) 3.Ra7+ Kg6 4.Rb7 ( 4.Kd4 Rc6 ) 4...Ra5 ) 2.Ke5 ( 
+2.Rb8 Ra1 3.Rb6 ( 3.Rb7+ Kf6 4.a7 Ke6 ) 3...Ra5 ( 3...Kf7 $2 4.Ke5 Ke7 5.Rb7+
+Kd8 6.a7 ) 4.Ke4 Kf7 5.Kd4 ( 5.Rh6 Kg7 ( 5...Ke7 $2 6.a7 Kd7 7.Rh8 ) )
+5...Ke7 6.Kc4 Kd7 7.Kb4 Ra1 ) 2...Rc6 1/2-1/2
+

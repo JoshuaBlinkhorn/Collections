@@ -1,0 +1,36 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "p"]
+[Black "?"]
+[Result "1/2-1/2"]
+[FEN "8/8/8/2k5/7R/6rp/2K5/8 b - - 0 1"]
+[SetUp "1"]
+
+{ ["perspective": true, "last_access": "2022-11-26", "learning_remaining": 10, "learning_limit": 10, "recall_factor": 2.0, "recall_radius": 3, "recall_max": 365] } 1... Ra3 2. Kb2 ( 2. Kd2 $2 h2 3. Ke2 Ra1 ) 2... Rf3 3. Kc2 Kd5 4. Kd2 1/2-1/2 
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "p"]
+[Result "1/2-1/2"]
+[FEN "7k/R6P/Pr6/8/8/8/1p6/1K6 b - - 0 1"]
+[SetUp "1"]
+
+{ ["perspective": false, "last_access": "2022-11-26", "learning_remaining": 10, "learning_limit": 10, "recall_factor": 2.0, "recall_radius": 3, "recall_max": 365] } 1... Rf6 ( 1... Rb4 $2 2. Rc7 Ra4 3. Rc6 ( 3. a7 $2 Rxa7 ) ( 3. Rc8+ $2 Kxh7 4. Rc6 Kg7 ( 4... Rb4 $2 5. a7 Ra4 6. Rc7+ Kg6 7. Kxb2 Kf6 8. Kb3 Ra1 9. Kb4 Ke6 10. Kb5 Kd6 11. Rc6+ Kd5 12. Ra6 Rb1+ 13. Ka5 Kc5 14. Rc6+ Kxc6 15. a8=Q+ ) 5. Kxb2 Kf7 6. Kb3 Ra1 7. Kb4 Ke7 8. Kb5 Kd7 ) 3... Kxh7 4. Kxb2 Kg7 5. Kb3 Ra1 6. Kb4 Kf7 7. Kc5 Ke7 8. Kb6 Kd7 9. Kb7 ) 2. Ra8+ ( 2. Kxb2 Rb6+ 3. Kc3 Rc6+ ) 2... Kxh7 3. Kxb2 Kg7 1/2-1/2 
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "p"]
+[Black "?"]
+[Result "1/2-1/2"]
+[FEN "8/8/R7/8/6k1/p7/6K1/r7 w - - 0 1"]
+[SetUp "1"]
+
+{ ["perspective": true, "last_access": "2022-11-26", "learning_remaining": 10, "learning_limit": 10, "recall_factor": 2.0, "recall_radius": 3, "recall_max": 365] } 1. Ra4+ ( 1. Rg6+ $2 Kf4 2. Ra6 ( 2. Rg3 Rg1+ ) ( 2. Rf6+ Ke4 ) ( 2. Rc6 Ra2+ ) 2... Ke4 3. Ra4+ Kd5 ( 3... Ke3 $2 4. Rh4 ( 4. Rg4 Ra2+ 5. Kh3 ( 5. Kg1 Kf3 6. Ra4 ( 6. Rc4 Re2 ) 6... Ra1+ ( 6... Kg3 $5 7. Kf1 Ra1+ 8. Ke2 a2 ) 7. Kh2 Ke2 ) 5... Rf2 6. Ra4 a2 7. Ra3+ Kd4 8. Kg3 Rb2 9. Kf4 Kc4 10. Ke4 Kb4 11. Ra8 Kc3 ) 4... Kd2 ( 4... Ra2+ 5. Kg1 Rf2 6. Ra4 Ra2 7. Rh4 ) 5. Rh3 Kc2 6. Rf3 a2 7. Rf2+ ( 7. Ra3 $2 Kb2 ) 7... Kd3 8. Rf3+ Ke4 9. Ra3 ) 4. Rf4 Ra2+ 5. Kg3 Rb2 ) 1... Kf5 2. Rc4 Ra2+ 3. Kf3 Rb2 4. Ra4 1/2-1/2 
+
