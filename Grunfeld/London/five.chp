@@ -9,57 +9,5 @@
 [FEN "rnbqkb1r/ppp1pp1p/5np1/3p4/2PP1B2/2N5/PP2PPPP/R2QKBNR b KQkq - 0 1"]
 [SetUp "1"]
 
-{ ["perspective": false, "last_access": "2022-07-29", "learning_remaining":
-10, "learning_limit": 10, "recall_factor": 3, "recall_radius": 2,
-"recall_max": 365] } 1...Bg7
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 2.e3 O-O
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 3.cxd5 ( 3.Nf3 c5
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 4.dxc5 Ne4
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 5.Rc1 Nd7
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 6.cxd5 Qa5
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 7.Nd4 Nxc3
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 8.bxc3 Nxc5
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 9.Bc4 Bd7
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 10.O-O Na4
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 11.Qb3 Nb6
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 12.Bb5 Bxd4
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 13.Bxd7 Bg7
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } ) 3...Nxd5
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 4.Nxd5 Qxd5
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 5.Bxc7 Na6
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 6.Bxa6 Qxg2
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 7.Qf3 Qxf3
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 8.Nxf3 bxa6
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 9.Rg1 ( 9.Rc1 f6
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 10.Ke2 Bg4
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 11.Rhg1 Bh5
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } ) 9...f6
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 10.Rc1 Rf7
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } 11.Ke2 Bd7
-{ ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date":
-"2022-07-28", "successes": 0, "failures": 0] } *
+{ ["perspective": false, "last_access": "2023-06-10", "learning_remaining": 10, "learning_limit": 10, "recall_factor": 3, "recall_radius": 2, "recall_max": 365] } 1... Bg7 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 2. e3 O-O { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 3. cxd5 ( 3. Nf3 c5 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 4. dxc5 Ne4 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 5. Rc1 Nd7 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 6. cxd5 Qa5 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 7. Nd4 Nxc3 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 8. bxc3 Nxc5 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 9. Bc4 Bd7 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 10. O-O Na4 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 11. Qb3 Nb6 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 12. Bb5 Bxd4 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 13. Bxd7 Bg7 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } ) 3... Nxd5 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 4. Nxd5 Qxd5 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 5. Bxc7 Na6 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 6. Bxa6 Qxg2 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 7. Qf3 Qxf3 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 8. Nxf3 bxa6 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 9. Rg1 ( 9. Rc1 f6 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 10. Ke2 Bg4 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 11. Rhg1 Bh5 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } ) 9... f6 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 10. Rc1 Rf7 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } 11. Ke2 Bd7 { ["status": "UNLEARNED", "last_study_date": "2022-07-28", "due_date": "2022-07-28", "successes": 0, "failures": 0] } *
 
