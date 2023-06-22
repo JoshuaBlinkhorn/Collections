@@ -8,7 +8,7 @@
 [FEN "8/5p2/4p3/8/3P4/5k2/P7/5K2 w - - 0 1"]
 [SetUp "1"]
 
-{ ["perspective": true, "last_access": "2023-06-21", "learning_remaining": 10, "learning_limit": 10, "recall_factor": 2.0, "recall_radius": 3, "recall_max": 365] } 1. d5 { ["status": "LEARNED", "last_study_date": "2023-06-18", "due_date": "2023-10-18", "successes": 5, "failures": 0] } 1... exd5 2. a4 { ["status": "LEARNED", "last_study_date": "2023-06-18", "due_date": "2023-09-02", "successes": 6, "failures": 0] } 2... Ke4 3. a5 { ["status": "LEARNED", "last_study_date": "2023-06-18", "due_date": "2023-11-22", "successes": 7, "failures": 0] } 3... d4 4. a6 { ["status": "LEARNED", "last_study_date": "2023-06-18", "due_date": "2023-09-10", "successes": 7, "failures": 0] } 4... d3 5. Ke1 { ["status": "LEARNED", "last_study_date": "2023-06-18", "due_date": "2023-08-29", "successes": 5, "failures": 0] } 1-0
+{ ["perspective": true, "last_access": "2023-06-22", "learning_remaining": 10, "learning_limit": 10, "recall_factor": 2.0, "recall_radius": 3, "recall_max": 365] } 1. d5 { ["status": "LEARNED", "last_study_date": "2023-06-18", "due_date": "2023-10-18", "successes": 5, "failures": 0] } 1... exd5 2. a4 { ["status": "LEARNED", "last_study_date": "2023-06-18", "due_date": "2023-09-02", "successes": 6, "failures": 0] } 2... Ke4 3. a5 { ["status": "LEARNED", "last_study_date": "2023-06-18", "due_date": "2023-11-22", "successes": 7, "failures": 0] } 3... d4 4. a6 { ["status": "LEARNED", "last_study_date": "2023-06-18", "due_date": "2023-09-10", "successes": 7, "failures": 0] } 4... d3 5. Ke1 { ["status": "LEARNED", "last_study_date": "2023-06-18", "due_date": "2023-08-29", "successes": 5, "failures": 0] } 1-0
 
 [Event "?"]
 [Site "?"]

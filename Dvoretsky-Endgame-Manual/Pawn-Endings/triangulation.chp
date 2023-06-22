@@ -8,23 +8,7 @@
 [FEN "2k5/8/p1P5/P2K4/8/8/8/8 w - - 0 1"]
 [SetUp "1"]
 
-{ ["perspective": true, "last_access": "2023-06-21", "learning_remaining":
-10, "learning_limit": 10, "recall_factor": 2.0, "recall_radius": 3,
-"recall_max": 365] } 1.Kc4
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-10-16", "successes": 6, "failures": 0] } 1...Kd8 2.Kd4
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2024-03-02", "successes": 6, "failures": 0] } 2...Kc8 3.Kd5
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-08-27", "successes": 14, "failures": 3] } 3...Kd8 ( 3...Kc7 4.Kc5
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-10-20", "successes": 5, "failures": 0] } 4...Kc8 5.Kb6
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-11-10", "successes": 9, "failures": 1] } ) 4.Kd6
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-10-27", "successes": 5, "failures": 0] } 4...Kc8 5.c7
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2024-01-02", "successes": 6, "failures": 0] } 1-0
+{ ["perspective": true, "last_access": "2023-06-22", "learning_remaining": 10, "learning_limit": 10, "recall_factor": 2.0, "recall_radius": 3, "recall_max": 365] } 1. Kc4 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-10-16", "successes": 6, "failures": 0] } 1... Kd8 2. Kd4 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2024-03-02", "successes": 6, "failures": 0] } 2... Kc8 3. Kd5 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-08-27", "successes": 14, "failures": 3] } 3... Kd8 ( 3... Kc7 4. Kc5 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-10-20", "successes": 5, "failures": 0] } 4... Kc8 5. Kb6 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-11-10", "successes": 9, "failures": 1] } ) 4. Kd6 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-10-27", "successes": 5, "failures": 0] } 4... Kc8 5. c7 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2024-01-02", "successes": 6, "failures": 0] } 1-0
 
 [Event "?"]
 [Site "?"]
@@ -36,61 +20,7 @@
 [FEN "8/8/3k1p1p/5P2/4K1PP/8/8/8 w - - 0 1"]
 [SetUp "1"]
 
-{ ["perspective": true, "last_access": "2022-11-11", "learning_remaining":
-10, "learning_limit": 10, "recall_factor": 2.0, "recall_radius": 3,
-"recall_max": 365] } 1.Kd4
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-06-22", "successes": 6, "failures": 1] } ( 1.Kf4 $5 Ke7 2.Kf3
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-06-22", "successes": 5, "failures": 1] } 2...Kd7 3.Ke3
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-06-22", "successes": 6, "failures": 2] } 3...Kd6 ( 3...Ke7 4.Kf4
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-09-24", "successes": 9, "failures": 1] } 4...Kf7 5.Ke4
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-09-27", "successes": 5, "failures": 0] } 5...Ke7 6.Kd5
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2024-01-27", "successes": 6, "failures": 0] } 6...Kd7 7.h5
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2024-01-28", "successes": 6, "failures": 0] } ) 4.Ke4
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-06-22", "successes": 6, "failures": 1] } 4...Kc6 5.Kf4
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-06-22", "successes": 6, "failures": 1] } 5...Kd6 6.g5
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-06-22", "successes": 5, "failures": 1] } ) ( 1.Ke3 $2 Ke5
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2024-02-07", "successes": 7, "failures": 1] } 2.Kf3 h5
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-10-26", "successes": 7, "failures": 0] } ) 1...Kc6 2.Kc4
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-10-16", "successes": 6, "failures": 0] } ( 2.g5 $2 fxg5
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-10-11", "successes": 5, "failures": 0] } ) 2...Kd6 3.Kb5
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-12-25", "successes": 6, "failures": 0] } 3...Kd5 ( 3...Ke5 4.Kc6
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2024-02-20", "successes": 6, "failures": 0] } 4...Kf4 ( 4...h5 5.gxh5
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-09-18", "successes": 11, "failures": 4] } 5...Kxf5 6.Kd5
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2024-01-21", "successes": 6, "failures": 0] } ) 5.Kd6
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2024-02-06", "successes": 7, "failures": 0] } 5...Kxg4 6.Ke6
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-10-17", "successes": 6, "failures": 0] } ) 4.Kb6
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2024-01-25", "successes": 6, "failures": 0] } 4...Kd6 5.Kb7
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-10-31", "successes": 5, "failures": 0] } 5...Kd7 6.h5
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-11-21", "successes": 5, "failures": 0] } 6...Kd6 7.Kc8
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-10-26", "successes": 5, "failures": 0] } 7...Ke5 8.Kd7
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-10-11", "successes": 5, "failures": 0] } 8...Kf4 9.Ke6
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-10-26", "successes": 7, "failures": 0] } 1-0
+{ ["perspective": true, "last_access": "2022-11-11", "learning_remaining": 10, "learning_limit": 10, "recall_factor": 2.0, "recall_radius": 3, "recall_max": 365] } 1. Kd4 { ["status": "LEARNED", "last_study_date": "2023-06-22", "due_date": "2023-06-23", "successes": 7, "failures": 1] } ( 1. Kf4 $5 Ke7 2. Kf3 { ["status": "LEARNED", "last_study_date": "2023-06-22", "due_date": "2023-06-23", "successes": 6, "failures": 1] } 2... Kd7 3. Ke3 { ["status": "LEARNED", "last_study_date": "2023-06-22", "due_date": "2023-06-25", "successes": 7, "failures": 2] } 3... Kd6 ( 3... Ke7 4. Kf4 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-09-24", "successes": 9, "failures": 1] } 4... Kf7 5. Ke4 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-09-27", "successes": 5, "failures": 0] } 5... Ke7 6. Kd5 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2024-01-27", "successes": 6, "failures": 0] } 6... Kd7 7. h5 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2024-01-28", "successes": 6, "failures": 0] } ) 4. Ke4 { ["status": "LEARNED", "last_study_date": "2023-06-22", "due_date": "2023-06-27", "successes": 7, "failures": 1] } 4... Kc6 5. Kf4 { ["status": "LEARNED", "last_study_date": "2023-06-22", "due_date": "2023-06-24", "successes": 7, "failures": 1] } 5... Kd6 6. g5 { ["status": "LEARNED", "last_study_date": "2023-06-22", "due_date": "2023-06-24", "successes": 6, "failures": 1] } ) ( 1. Ke3 $2 Ke5 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2024-02-07", "successes": 7, "failures": 1] } 2. Kf3 h5 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-10-26", "successes": 7, "failures": 0] } ) 1... Kc6 2. Kc4 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-10-16", "successes": 6, "failures": 0] } ( 2. g5 $2 fxg5 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-10-11", "successes": 5, "failures": 0] } ) 2... Kd6 3. Kb5 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-12-25", "successes": 6, "failures": 0] } 3... Kd5 ( 3... Ke5 4. Kc6 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2024-02-20", "successes": 6, "failures": 0] } 4... Kf4 ( 4... h5 5. gxh5 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-09-18", "successes": 11, "failures": 4] } 5... Kxf5 6. Kd5 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2024-01-21", "successes": 6, "failures": 0] } ) 5. Kd6 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2024-02-06", "successes": 7, "failures": 0] } 5... Kxg4 6. Ke6 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-10-17", "successes": 6, "failures": 0] } ) 4. Kb6 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2024-01-25", "successes": 6, "failures": 0] } 4... Kd6 5. Kb7 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-10-31", "successes": 5, "failures": 0] } 5... Kd7 6. h5 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-11-21", "successes": 5, "failures": 0] } 6... Kd6 7. Kc8 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-10-26", "successes": 5, "failures": 0] } 7... Ke5 8. Kd7 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-10-11", "successes": 5, "failures": 0] } 8... Kf4 9. Ke6 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-10-26", "successes": 7, "failures": 0] } 1-0
 
 [Event "?"]
 [Site "?"]
@@ -102,19 +32,5 @@
 [FEN "8/8/8/5p2/5k1p/7P/5K2/8 b - - 0 1"]
 [SetUp "1"]
 
-{ ["perspective": false, "last_access": "2022-11-11", "learning_remaining":
-10, "learning_limit": 10, "recall_factor": 2.0, "recall_radius": 3,
-"recall_max": 365] } 1...Ke4
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2024-02-27", "successes": 7, "failures": 0] } 2.Ke2 f4
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-10-11", "successes": 5, "failures": 0] } 3.Kf2 f3
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-11-18", "successes": 6, "failures": 0] } 4.Kf1 Kf5
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-10-26", "successes": 5, "failures": 0] } 5.Ke1 Ke5
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-11-18", "successes": 6, "failures": 0] } 6.Kf1 Ke4
-{ ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date":
-"2023-10-09", "successes": 5, "failures": 0] } 0-1
+{ ["perspective": false, "last_access": "2022-11-11", "learning_remaining": 10, "learning_limit": 10, "recall_factor": 2.0, "recall_radius": 3, "recall_max": 365] } 1... Ke4 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2024-02-27", "successes": 7, "failures": 0] } 2. Ke2 f4 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-10-11", "successes": 5, "failures": 0] } 3. Kf2 f3 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-11-18", "successes": 6, "failures": 0] } 4. Kf1 Kf5 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-10-26", "successes": 5, "failures": 0] } 5. Ke1 Ke5 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-11-18", "successes": 6, "failures": 0] } 6. Kf1 Ke4 { ["status": "LEARNED", "last_study_date": "2023-06-21", "due_date": "2023-10-09", "successes": 5, "failures": 0] } 0-1
 
