@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "p"]
+[Result "*"]
+[ECO "C29"]
+[FEN "rnbqkb1r/ppp2ppp/5n2/3pp3/4PP2/2N5/PPPP2PP/R1BQKBNR w KQkq - 0 1"]
+[SetUp "1"]
+
+1.fxe5 Nxe4 2.Qf3 ( 2.Nf3 Bc5 3.d4 Bb4 4.Bd2 c5 ) 2...Nc6 3.Bb5 Nxc3 4.dxc3
+Qh4+ 5.g3 Qe4+ 6.Qxe4 dxe4 7.Bf4 Bd7 8.O-O-O O-O-O 9.Bxc6 Bxc6 10.Rxd8+ Kxd8
+11.Ne2 Bd7 12.Rf1 Bh3 13.Bg5+ Ke8 14.Rf2 h6 15.Be3 g5 *
+

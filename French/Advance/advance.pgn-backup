@@ -1,0 +1,14 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "p"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbqkbnr/ppp2ppp/4p3/3p4/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 0 1"]
+[SetUp "1"]
+
+1...d4 2.Ne2 c5 3.c3 dxc3 ( 3...d3 4.Nf4 c4 5.Qa4+ Nc6 6.Qxc4 ) ( 3...Nc6
+4.cxd4 cxd4 5.Qa4 Bd7 ( 5...d3 6.Ned4 Bd7 7.Bxd3 ) 6.Nexd4 Nxd4 7.Qxd4 )
+4.bxc3 *
+
