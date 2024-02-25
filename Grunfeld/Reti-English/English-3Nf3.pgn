@@ -7,7 +7,7 @@
 [Result "*"]
 [ECO "A10"]
 
-{ ["perspective": true, "last_access": "2023-07-31", "learning_remaining": 10, "learning_limit": 10, "recall_factor": 2.0, "recall_radius": 3, "recall_max": 365] } *
+{ ["perspective": true, "last_access": "2024-02-17", "learning_remaining": 10, "learning_limit": 10, "recall_factor": 2.0, "recall_radius": 3, "recall_max": 365] } *
 
 [Event "?"]
 [Site "?"]
